@@ -14,6 +14,10 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/graffpl/vscode-kkn-color-theme.git"
+    },
     "keywords": [
         "theme",
         "color-theme",
