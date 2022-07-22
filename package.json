@@ -1,0 +1,33 @@
+{
+    "name": "kkn-color-theme",
+    "displayName": "KKN Color Theme",
+    "description": "KKN Dark Theme, contrast",
+    "publisher": "KKN",
+    "version": "0.0.1",
+    "maintainers": [
+        "Krzysztof Niekrasz <krzysiek@graff.pl>"
+    ],
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "color-theme",
+        "minimal",
+        "dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "id": "kkn-color-theme-dark",
+                "label": "KKN Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./theme/kkn-color-theme-dark.json"
+            }
+        ]
+    }
+}
