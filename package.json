@@ -4,6 +4,10 @@
     "description": "KKN Dark Theme, contrast",
     "publisher": "KKN",
     "version": "0.0.1",
+    "author": {
+        "name": "Krzysztof Niekrasz",
+        "email": "krzysiek@graff.pl"
+    },
     "maintainers": [
         "Krzysztof Niekrasz <krzysiek@graff.pl>"
     ],
