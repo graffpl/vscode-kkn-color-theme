@@ -28,6 +28,7 @@
         "minimal",
         "dark"
     ],
+    "license": "MIT",
     "contributes": {
         "themes": [
             {
