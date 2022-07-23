@@ -1,12 +1,13 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "KKN Dark Theme",
+  "type": "dark",
   "tokenColors": [
     {
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#d4d499"
+        "foreground": "#aeae7b"
       }
     },
     {
