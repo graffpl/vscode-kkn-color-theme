@@ -5,6 +5,6 @@
 Minimalistic theme to concentrate on writing code.
 Based on [Chalice color themes](https://github.com/artlaman/chalice-color-theme/blob/master/README.md). Recommended to use with beautiful minimalistic [Chalice icon theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme)
 
- ## Previews
- 
+ ## Preview
+ ![preview](php-preview.png)
  
