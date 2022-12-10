@@ -10,7 +10,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#aeae7b"
+        "foreground": "#aeae7be1"
       }
     },
     {
@@ -94,10 +94,10 @@
     // "scrollbarSlider.background": "#a6a6a64f",
     // "scrollbarSlider.hoverBackground": "#a6a6a67a",
     // Lists and trees
-    "list.activeSelectionBackground": "#575b5c",
-    "list.activeSelectionForeground": "#f6f200",
-    "list.inactiveSelectionBackground": "#575b5c",
-    "list.inactiveSelectionForeground": "#f6f200",
+    "list.activeSelectionBackground": "#313232",
+    "list.activeSelectionForeground": "#f6f200bc",
+    "list.inactiveSelectionBackground": "#313232",
+    "list.inactiveSelectionForeground": "#f6f200bc",
     "list.hoverBackground": "#3e4344",
     "list.hoverForeground": "#cfd0d0",
     "list.focusBackground": "#3e4344",
@@ -155,8 +155,8 @@
     "statusBarItem.prominentHoverBackground": "#24292a",
     "statusBar.foreground": "#b7b9b9",
     "statusBar.border": "#444849",
-    // "statusBar.debuggingBackground": "#FFBC5D",
-    // "statusBar.debuggingForeground": "#000",
+    "statusBar.debuggingBackground": "#FFBC5D",
+    "statusBar.debuggingForeground": "#000",
     // "statusBar.noFolderBackground": "#7A3E9D",
     // "statusBar.noFolderForeground": "#fff",
     // Git colors
@@ -166,7 +166,7 @@
     "gitDecoration.conflictingResourceForeground": "#cd974b",
     "gitDecoration.deletedResourceForeground": "#c7423b",
     "gitDecoration.submoduleResourceForeground": "#CC8BC9",
-    "gitDecoration.ignoredResourceForeground": "#5e5f5f",
+    "gitDecoration.ignoredResourceForeground": "#808080",
     // Integrated Terminal colors
     "terminal.foreground": "#8DAFB2",
     // "terminal.selectionBackground": "#32373877",
