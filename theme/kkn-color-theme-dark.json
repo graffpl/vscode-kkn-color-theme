@@ -70,6 +70,13 @@
       "settings": {
         "foreground": "#71ADE7"
       }
+    },
+    {
+      "name": "Dart class name",
+      "scope": "support.class.dart",
+      "settings": {
+        "foreground": "#618cb7"
+      }
     }
   ],
   "colors": {
